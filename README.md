@@ -24,6 +24,8 @@ I want to learn English. Now I watch English youtube channels and articles every
 - C++
 - Java
 - Python
+- HTML5
+- CSS3
 - Arduino
 - raspberry pi
 - TypeScript
