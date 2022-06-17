@@ -15,7 +15,7 @@
 🍏 Beginner's mindset and curiosity<br>
 🙌 Sharing anything I learned<br>
 
-## 🔭 Goals of 2020
+## 🔭 Goals of 2022
 
 I want to learn English. Now I watch English youtube channels and articles everyday and write English articles about program technology each week, I hope I can prepared in 2020 💪. I also want to contribute more open source projects make I can improve my skills of program.
 
