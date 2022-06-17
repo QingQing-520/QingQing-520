@@ -1,7 +1,7 @@
 # Hi 👋, I'm Qingqing
 ### Hello everyone, my name is Qingqing, I am a college student. I love learning new technologies and networking skills. I want to leave Taiwan in the future. I want to work in other countries, talk to all kinds of people, and learn more about the world 😸.
-![Top Langs](https://github-readme-stats.vercel.app/api?username=LINDuke-Lin)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LINDuke-Lin&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api?username=QingQing-520)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QingQing-520&layout=compact)
 
 
 
