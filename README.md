@@ -28,7 +28,6 @@ I want to learn English. Now I watch English youtube channels and articles every
 - CSS3
 - Arduino
 - raspberry pi
-- TypeScript
 
 ### 🔧 Tool
 - Version Control(Git/it-Flow)
