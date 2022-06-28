@@ -32,7 +32,6 @@ I want to learn English. Now I watch English youtube channels and articles every
 - HTML5
 - CSS3
 - Arduino
-- raspberry pi
 
 ### 🔧 Tool
 - Version Control(Git/it-Flow)
