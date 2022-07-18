@@ -26,8 +26,8 @@ I want to learn English. Now I watch English youtube channels and articles every
 
 ## 🧠 That I know and use
 ### 📚 Langues and Frameworks
-- C++
 - Java
+- C++ 
 - Python
 - HTML5
 - CSS3
